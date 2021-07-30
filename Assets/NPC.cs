@@ -13,7 +13,7 @@ public class NPC : MonoBehaviour
     /// <summary>
     /// 對話
     /// </summary>
-    /// <param name="chatAlpha">填寫對話內容</param>
+    /// <param name="chatAlpha">填寫對話內容就可顯示</param>
     private void chat(string chatAlpha)
     {
         print("Apha:" + chatAlpha);
